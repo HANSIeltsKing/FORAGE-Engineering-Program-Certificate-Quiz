@@ -1,10 +1,60 @@
 # Quiz1
 <br/>
 
+**Q 1/20: Which of the following is not part of the main goals for energy transition from fossil fuels?**
+
+Reduces greenhouse gas emissions
+
+Helps to address climate change
+
+**To prevent over-reliance on foreign oil**
+
+<br/>
+<br/>
+
+**Q 2/20: All of the following factors affect the current and future energy demands, except____**
+
+**Growing world population**
+
+Weather
+
+Early retirement of gas and coal-fired plants
 
 
 <br/>
 <br/>
+
+**Q 3/20: What is the main challenge for the energy sector, as regards to climate change?
+
+How to improve the performances of wind turbines and solar panels
+
+**Zero emissions of CO2**
+
+Carbon capture and sequestration
+
+<br/>
+<br/>
+
+**Q 4/20: What part of the wind turbine converts mechanical energy to electrical energy?
+
+Gear box
+
+**Generator**
+
+Blades
+
+
+
+<br/>
+<br/>
+
+**Q 5/20: In____applications, wind energy is typically used in charging of batteries that store the energy captured by the wind turbines and provides the user with electric energy on-demand.**
+
+On-grid
+
+In-grid
+
+**Off-grid**
 
 
 
